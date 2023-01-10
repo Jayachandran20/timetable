@@ -87,4 +87,8 @@ Execute the program
 </html>
 ```
 # OUPUT
-"/static/images/timetable.png"
+![timetable](https://user-images.githubusercontent.com/118447015/211584313-05314147-3987-4a21-a9cd-a1faa0b98391.png)
+
+
+
+
